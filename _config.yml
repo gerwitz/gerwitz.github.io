@@ -1,3 +1,4 @@
 name: Hans's Test Site
 plugins:
   - jekyll-feed
+permalink: /:year/:month/:day/:title:output_ext
