@@ -1,3 +1,4 @@
 name: Hans's Test Site
 markdown: redcarpet
-  
+plugins:
+  - jekyll-feed
